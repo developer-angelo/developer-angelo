@@ -8,7 +8,7 @@
 >
 > Soy de **Piura, Perú**
 >
-> Tengo 14 años de edad
+> Tengo **14 años de edad**
 
 
 
