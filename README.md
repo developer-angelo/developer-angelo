@@ -3,9 +3,9 @@
 > Desarrollador de Software FullStack
 
 ```Hola Mundo!```
-
-- Nací en **2011**
-- Soy de **Piura, Perú**
+> [!NOTE]
+> Nací en **2011**
+> Soy de **Piura, Perú**
 
 
 
