@@ -47,8 +47,8 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 -----------|------|----------|
 | Teccora Studio + | Beta | [Aquí](https://teccora-studio-plus.pages.dev)|
 | Teccora Studio Lite | Beta | [Aquí](https://teccora-studio-lite.pages.dev)|
-| TeccoraAI | Terminando | [Aquí](https://teccora-ai.pages.dev)|
-| Léeme | Terminando | [Aquí](https://leeme.pages.dev)|
+| TeccoraAI | Terminado | [Aquí](https://teccora-ai.pages.dev)|
+| Léeme | Terminado | [Aquí](https://leeme.pages.dev)|
 | Morval Security | Terminado | [Aquí](https://morval-security.pages.dev)|
 
 
