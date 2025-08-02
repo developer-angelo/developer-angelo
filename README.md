@@ -44,7 +44,7 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 
 
 | Proyecto | Fase | Pruébalo |
-------------------------------
+-----------|------|----------|
 | Teccora Studio + | Beta | [Aquí](https://teccora-studio-plus.pages.dev)|
 
 
