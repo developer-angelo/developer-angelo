@@ -7,6 +7,8 @@
 > Nací en **2011**
 >
 > Soy de **Piura, Perú**
+>
+> Tengo 14 años de edad
 
 
 
