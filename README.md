@@ -37,7 +37,7 @@
 
 ## ¿Cómo empecé? 
 
-Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, decidí ir a la programación, comenzado con ```HTML + CSS + JS```, y después comencé con frameworks, más adelante aprendí lenguajes para el backend, me costó mucho pero lo logré, ahora ya soy **Desarrollador de Software FullStack**, con múltiples proyectos... 
+Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, decidí ir a la programación, comenzado con ```HTML + CSS + JS```, y después comencé con frameworks, más adelante aprendí lenguajes para el backend, me costó mucho pero lo logré, ahora ya soy **Desarrollador de Software FullStack**, con múltiples proyectos Frontend y Backend...  
 
 
 ## Proyectos
@@ -46,5 +46,6 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 | Proyecto | Fase | Pruébalo |
 -----------|------|----------|
 | Teccora Studio + | Beta | [Aquí](https://teccora-studio-plus.pages.dev)|
+| Teccora Studio Lite | Beta | [Aquí](https://teccora-studio-lite.pages.dev)|
 
 
