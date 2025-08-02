@@ -2,7 +2,7 @@
 
 > Desarrollador de Software FullStack
 
-```Hola Mundo!```
+
 > [!NOTE]
 > Nací en **2011**
 >
@@ -35,7 +35,16 @@
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)  
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
+## ¿Cómo empecé? 
 
-<button>
- <a href="https://wa.me/51923040059?text=">Contáctame</a>
-</button>
+Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, decidí ir a la programación, comenzado con ```HTML + CSS + JS```, y después comencé con frameworks, más adelante aprendí lenguajes para el backend, me costó mucho pero lo logré, ahora ya soy **Desarrollador de Software FullStack**, con múltiples proyectos... 
+
+
+## Proyectos
+
+
+| Proyecto | Fase | Pruébalo |
+------------------------------
+| Teccora Studio + | Beta | [Aquí](https://teccora-studio-plus.pages.dev)|
+
+
