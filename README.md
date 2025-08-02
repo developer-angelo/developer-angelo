@@ -1,4 +1,4 @@
-# Angelo Benites
+<h1 align="center">Angelo Benites</h1>
 > Desarrollador de Software FullStack
 
 ```Hola Mundo!```
@@ -6,7 +6,6 @@
 - Nací en **2011**
 - Soy de **Piura, Perú**
 
-<h1>Hola Mundo</h1>
 
 
 ## ⚙️ Lenguajes
