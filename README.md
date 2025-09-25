@@ -47,13 +47,13 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 
 | Proyecto | Fase | Pruébalo |
 -----------|------|----------|
-| Teccora Studio + | Beta | [Aquí](https://teccora-studio-plus.pages.dev)|
-| Teccora Studio Lite | Beta | [Aquí](https://teccora-studio-lite.pages.dev)|
-| TeccoraAI | Terminado | [Aquí](https://teccora-ai.pages.dev)|
+| Teccora Studio + | Descontinuado | [Aquí](https://teccora-studio-plus.pages.dev)|
+| Teccora Studio Flash | Terminado | [Aquí](https://teccora-studio-flash.vercel.app)|
+| TeccoraAI | Terminado | [Aquí](https://teccora-ai-ultra.vercel.app)|
 | Léeme | Terminado | [Aquí](https://leeme.pages.dev)|
 | Morval Security | Terminado | [Aquí](https://morval-security.pages.dev)|
-| TeccoChat | Terminado | [Aquí](https://tecco-chat.pages.dev)|
-| LiveNotes | Beta | [Aquí](https://live-notes.pages.dev)|
+| Long Electric | Terminado | [Aquí](https://long-electric.pages.dev)|
+| I.E Jorge Basadre | Desarrollo | No Disponible |
 
 
 ![Teccora](https://teccora.pages.dev/icon_web.png)
