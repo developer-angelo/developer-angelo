@@ -56,4 +56,4 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 | I.E Jorge Basadre | Desarrollo | No Disponible |
 
 
-![Teccora](https://teccora.pages.dev/icon_web.png)
+![Teccora](https://teccora.pages.dev/assets/favicon.png)
