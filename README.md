@@ -51,8 +51,8 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 | Teccora Studio | Terminado | [Aquí](https://teccorastudio.vercel.app)|
 | TeccoraAI | Terminado | Eliminado |
 | Léeme | Terminado | [Aquí](https://leeme.pages.dev)|
-| Morval Security | Terminado y Eliminado | [Aquí](https://morval-security.pages.dev)|
-| Long Electric | Terminado y Descontinuado | [Aquí](https://long-electric.pages.dev)|
+| Morval Security | Terminado | Por Eliminar |
+| Long Electric | Terminado | [Descontinuado](https://long-electric.pages.dev)|
 | I.E Jorge Basadre | Desarrollo | No Disponible |
 | Clon de Yape | Planteamiento | No Disponible |
 
