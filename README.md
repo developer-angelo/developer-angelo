@@ -47,13 +47,14 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 
 | Proyecto | Fase | Pruébalo |
 -----------|------|----------|
-| Teccora Studio + | Descontinuado | [Aquí](https://teccora-studio-plus.pages.dev)|
-| Teccora Studio Flash | Terminado | [Aquí](https://teccora-studio-flash.vercel.app)|
-| TeccoraAI | Terminado | [Aquí](https://teccora-ai-ultra.vercel.app)|
+| Teccora Studio + | Descontinuado y Eliminado | No Disponible |
+| Teccora Studio | Terminado | [Aquí](https://teccorastudio.vercel.app)|
+| TeccoraAI | Terminado | Eliminado |
 | Léeme | Terminado | [Aquí](https://leeme.pages.dev)|
-| Morval Security | Terminado | [Aquí](https://morval-security.pages.dev)|
-| Long Electric | Terminado | [Aquí](https://long-electric.pages.dev)|
+| Morval Security | Terminado y Eliminado | [Aquí](https://morval-security.pages.dev)|
+| Long Electric | Terminado y Descontinuado | [Aquí](https://long-electric.pages.dev)|
 | I.E Jorge Basadre | Desarrollo | No Disponible |
+| Clon de Yape | Planteamiento | No Disponible |
 
 
 ![Teccora](https://teccora.pages.dev/assets/favicon.png)
