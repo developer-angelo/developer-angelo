@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Angelo Benites</h1>
 
 > **Desarrollador y Programador de Software FullStack**  
-> Fundador del ecosistema tecnológico **TECCORA OS**
+> Fundador del ecosistema tecnológico **Teccora**
 
 ---
 
@@ -87,15 +87,15 @@ Hoy, con solo **14 años**, me defino como un **Desarrollador de Software FullSt
 Un sistema educativo y tecnológico creado para fusionar **IA, software y educación**.  
 Incluye plataformas como:
 
-- 🧠 **TECCORA EDU** → Educación digital con IA.  
-- 🤖 **TECCORA IA** → Asistentes inteligentes de aprendizaje.  
-- 🧩 **TECCORA STUDIO** → Herramientas web, apps y entornos de desarrollo.  
-- 🧰 **TECCORA OS Core** → Backend y ecosistema base desarrollado en Python y Node.js.
+- 🧠 **CodeBase** → Educación digital para aprender programación y desarrollo.  
+- 🤖 **TeccoraIA** → Asistentes inteligentes de aprendizaje.  
+- 🧩 **Teccora Studio** → Herramientas web, apps y entornos para estudiantes (Set Completo).  
+- 🧰 **Jorge Basadre Web** → Plataforma Oficial del colegio Jorge Basadre.
 
 ---
 
 <h3 align="center">✨ “No sigo tendencias, las creo.” ✨</h3>
 
 <p align="center">
-  <img src="https://teccora.pages.dev/assets/favicon.png" width="60px" alt="TECCORA">
+  <img src="https://teccora.pages.dev/assets/favicon.ico" width="60px" alt="TECCORA">
 </p>
