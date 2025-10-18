@@ -97,5 +97,5 @@ Incluye plataformas como:
 <h3 align="center">✨ “No sigo tendencias, las creo.” ✨</h3>
 
 <p align="center">
-  <img src="https://teccora.pages.dev/assets/favicon.ico" width="60px" alt="TECCORA">
+  <img src="https://teccora.pages.dev/assets/favicon-DKwygzbg.png" width="60px" alt="TECCORA">
 </p>
