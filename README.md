@@ -63,7 +63,7 @@ Con el tiempo descubrí el verdadero poder del código y empecé con **HTML, CSS
 A medida que avanzaba, aprendí frameworks modernos como **React, Astro, y Next.js**, y luego me lancé al **backend con Node.js, Express y Python**.  
 También exploré el desarrollo móvil con **React Native, Flutter y Framework7**, y el manejo de bases de datos con **SQL y Supabase**.  
 
-Hoy, con solo **14 años**, me defino como un **Desarrollador de Software FullStack**, construyendo proyectos reales y liderando el ecosistema **TECCORA OS**, que fusiona **educación, inteligencia artificial y desarrollo de software**.  
+Hoy, con solo **14 años**, me defino como un **Desarrollador de Software FullStack**, construyendo proyectos reales y liderando el ecosistema **Teccora**, que fusiona **educación, inteligencia artificial y desarrollo de software**.  
 
 ---
 
@@ -82,7 +82,7 @@ Hoy, con solo **14 años**, me defino como un **Desarrollador de Software FullSt
 
 ---
 
-## 🧩 Ecosistema: **TECCORA OS**
+## 🧩 Ecosistema: **Teccora**
 
 Un sistema educativo y tecnológico creado para fusionar **IA, software y educación**.  
 Incluye plataformas como:
