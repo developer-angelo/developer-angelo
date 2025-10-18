@@ -47,7 +47,7 @@ Empecé con Google Sites, pero al ver que no podía hacer webs más complejas, d
 
 | Proyecto | Fase | Pruébalo |
 -----------|------|----------|
-| Teccora Studio + | Descontinuado y Eliminado | No Disponible |
+| Teccora Studio + | Eliminado | No Disponible |
 | Teccora Studio | Terminado | [Aquí](https://teccorastudio.vercel.app)|
 | TeccoraAI | Terminado | Eliminado |
 | Léeme | Terminado | [Aquí](https://leeme.pages.dev)|
