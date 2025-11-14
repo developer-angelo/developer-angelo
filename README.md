@@ -77,7 +77,7 @@ Hoy, con solo **14 años**, me defino como un **Desarrollador de Software FullSt
 | **Léeme** | Terminado | [Visitar](https://leeme.pages.dev) |
 | **Morval Security** | Terminado | Por eliminar |
 | **Long Electric** | Terminado | [Descontinuado](https://long-electric.pages.dev) |
-| **I.E. Jorge Basadre** | En desarrollo | No disponible |
+| **I.E. Jorge Basadre** | En desarrollo | [Visitar](https://jorgebasadre.vercel.app) |
 | **Clon de Yape (educativo)** | En planeamiento | No disponible |
 
 ---
